@@ -1,9 +1,7 @@
 # Day 1
-### Presentation of the contest
-link slides
-### Calendar
-va bene il mercoledì?
-### Some exercises
-Candle box
-Frosting on the cake
-TODO: altro
+
+### Contest
+
+(Warm-up Contest)[https://open.kattis.com/contests/kc37mv/edit]
+
+Le soluzioni verranno pubblicate e discusse la prossima settimana
