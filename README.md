@@ -16,12 +16,12 @@ In order to participate, teams are selected in the following way:
     * @UniTN: We never got to that point…
     
 ## Meetings 2019
-* 13 / 03 / 2019 | 17.30 - 19.30 | Room A108
-* 21 / 03 / 2019 | 17.30 - 19.30 | Room A108
-* 27 / 03 / 2019 | 17.30 - 19.30 | Room A108
+* 13 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Presentazione, contest di warm up }
+* 21 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Grafi parte 1 }
+* 27 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Grafi parte 2 }
 * 04 / 04 / 2019 | 17.30 - 19.30 | Room A108
-* 10 / 04 / 2019 | 17.30 - 19.30 | Room A108
-* 17 / 04 / 2019 | 17.30 - 19.30 | Room A108
+* 10 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Programmazione dinamica parte 1 }
+* 17 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Programmazione dinamica parte 2 }
 * 02 / 05 / 2019 | 17.30 - 19.30 | Room A108
 * 08 / 05 / 2019 | 17.30 - 19.30 | Room A108
 * 15 / 05 / 2019 | 17.30 - 19.30 | Room A108
