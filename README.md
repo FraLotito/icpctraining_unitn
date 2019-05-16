@@ -24,5 +24,5 @@ In order to participate, teams are selected in the following way:
 * 17 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Dynamic programming, pt. 2: (More) advanced concepts }
 * 02 / 05 / 2019 | 17.30 - 19.30 | Room A108 { Network Flow: Max Flow, Min Cut, MCBM }
 * 08 / 05 / 2019 | 17.30 - 19.30 | Room A108 { SWERC-like contest; 2-SAT }
-* 15 / 05 / 2019 | 17.30 - 19.30 | Room A108
+* 15 / 05 / 2019 | 17.30 - 19.30 | Room A108 { Problem discussion }
 * 21 / 05 / 2019 | 17.30 - 19.30 | Room A108
