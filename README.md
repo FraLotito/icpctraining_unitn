@@ -16,16 +16,13 @@ In order to participate, teams are selected in the following way:
     * @UniTN: We never got to that point…
     
 ## Meetings 2019
-* 13 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Presentazione, contest di warm up }
-* 21 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Grafi parte 1 }
-* 27 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Grafi parte 2 }
-* 04 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Strutture dati }
-* 10 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Programmazione dinamica parte 1 }
-* 17 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Programmazione dinamica parte 2 }
-* 02 / 05 / 2019 | 17.30 - 19.30 | Room A108
-* 08 / 05 / 2019 | 17.30 - 19.30 | Room A108
-* 15 / 05 / 2019 | 17.30 - 19.30 | Room A108
+* 13 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Presentation, warm-up contest }
+* 21 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Problems on graphs, pt. 1: Coloring, Bipartite check, Tarjan bridges }
+* 27 / 03 / 2019 | 17.30 - 19.30 | Room A108 { Problems on graphs, pt. 2: MST, Dijkstra }
+* 04 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Data structures: STL, Prefix array, Fenwick range query and range update }
+* 10 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Dynamic programming, pt. 1: Basic concepts }
+* 17 / 04 / 2019 | 17.30 - 19.30 | Room A108 { Dynamic programming, pt. 2: (More) advanced concepts }
+* 02 / 05 / 2019 | 17.30 - 19.30 | Room A108 { Network Flow: Max Flow, Min Cut, MCBM }
+* 08 / 05 / 2019 | 17.30 - 19.30 | Room A108 { SWERC-like contest; 2-SAT }
+* 15 / 05 / 2019 | 17.30 - 19.30 | Room A108 { Problem discussion }
 * 21 / 05 / 2019 | 17.30 - 19.30 | Room A108
-
-## Resources
-* wip
